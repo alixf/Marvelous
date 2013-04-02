@@ -1,0 +1,6 @@
+%{
+	#include "marvelous.tab.h"
+%}
+
+%%
+%%
